@@ -1,5 +1,7 @@
 <!-- Github profile README -->
-![PEPSALT](https://i.imgur.com/ssFseRN.png)
-Hey, I'm PEPSALT but you can call me Quin. I like to make things, think of things, innovate things and, most importantly, git push broken code. I'm looking to take this hobby to a career-sustaining level through this academic period of my life. I code in C++ generally but I'm not afraid of the array of languages and paradigms that Computer Science has to offer.
+# I'm PEPSALT
 
-I'm currently planning to go into graphics and engine architecture, working on my main project [FAR game engine](https://github.com/Compiler/Far-Game-Engine). But with the excess time we currently find ourselves with, many smaller projects will find their way onto my Github.
+I'm a hobbyist programmer who likes to experiment, tinker, create, program and most importantly: push broken code. I like to do a bit of everything but am looking for a facet of development to really hone in on and develop.
+
+Currently however, I'm branching out into most facets with my strength being OOP languages, especially C++.
+[![PEPSALT's github stats](https://github-readme-stats.vercel.app/api?username=KingPEPSALT&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
